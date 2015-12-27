@@ -1,4 +1,5 @@
-##This is the code book to accompany data set produced from the associated run_analysis.R script
+##This is the code book to accompany data set produced from the associated run_analysis.R script.
+Instructions on how the code functions are within the script file.
 
 Variable Name and description:
 
